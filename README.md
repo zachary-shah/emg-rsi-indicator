@@ -21,7 +21,12 @@ The tool we use to proxy "muscle health" is an electromyogram (EMG), which measu
 
 We show that taking 5 minute breaks every 10 minutes while gaming significantly decreases the risk for strain-derived injuries from console gaming. The below figure shows the magnitude of high-frequency EMG power when at risk for strain (green), when at rest (black), when continuously engaging in console gaming (blue), and when engaging in console gaming with periodic rests (red). RSI risk is directly correlated to the y axis magnitude.    
 
+Download our poster here: <a id="raw-url" href="https://raw.githubusercontent.com/zachary-shah/zachary-shah.github.io/master/assets/writing/ConsoleGamingEMGforRSI.pdf
+">(Download)</a>
 
+## Authors 
+
+This work was completed in collaboration with Samuel Gallemore, Andrew Chyong, and Nikhil Deshmukh as the class project for BMED 3110: Quantitative Physiology Lab I in Spring 2021.
 
 ## Contents
 
